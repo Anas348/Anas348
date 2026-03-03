@@ -1,16 +1,23 @@
-## Hi there 👋
+#Anas Malik
 
-<!--
-**Anas348/Anas348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##About me
 
-Here are some ideas to get you started:
+This lad is a student of 4th semester in FAST University and studying computer science. Interested in Enumeration, Penetration Testing, Quantum Decoherence and Qubits.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Currently working on
+
+-Database project
+-Learning fundamental of Git and Github
+-Self Lerning: Qubits and Quantum Decoherence
+
+##Currently learning 
+
+Fundamentals of Quantum computing 
+
+##Skills 
+-C++
+-Python
+-Database handeling
+
+##Reach me
+Feel free to reach me about anything at: anasmalik54543@gmail.com
