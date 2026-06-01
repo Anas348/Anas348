@@ -9,6 +9,7 @@ This lad is a student of 4th semester in FAST University and studying computer s
 - Database project
 - Learning fundamental of Git and Github
 - Self Lerning: Qubits and Quantum Decoherence
+- Fundamentals of AI
 
 ## Currently learning 
 
