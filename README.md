@@ -2,7 +2,7 @@
 
 ## About me
 
-This lad is a student of 4th semester in FAST University and studying computer science. Interested in Enumeration, Penetration Testing, Quantum Decoherence and Qubits.
+This lad is a student of 5th semester in FAST University and studying computer science. Interested in Enumeration, Penetration Testing, Data Engineering, Quantum Decoherence and Qubits.
 
 ## Currently working on
 
