@@ -6,19 +6,20 @@ This lad is a student of 4th semester in FAST University and studying computer s
 
 ## Currently working on
 
-- Database project
+- Data engineering project 
 - Learning fundamental of Git and Github
-- Self Lerning: Qubits and Quantum Decoherence
+- Self Lerning: Fundamentals of data engineering 
 - Fundamentals of AI
 
 ## Currently learning 
 
-Fundamentals of Quantum computing 
+Fundamentals of data engineering 
 
 ## Skills 
 - C++
 - Python
 - Database handeling
+- ETL Pipelining
 
 ## Reach me
 Feel free to reach me about anything at: anasmalik54543@gmail.com
